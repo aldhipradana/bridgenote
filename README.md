@@ -2,6 +2,8 @@
 
 ❤ This repository has been published at https://aldhipradana.github.io/bridgenote/ 
 
+## How to clone and run?
+
 1. Clone this repository using `git clone https://github.com/aldhipradana/bridgenote`
 2. Make sure you already installed Node, 
 3. Then open your terminal and run `npm install` 
