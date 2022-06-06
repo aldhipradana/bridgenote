@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bridgenote/static/css/main.f964bf95.css",
+    "main.js": "/bridgenote/static/js/main.ef858273.js",
+    "static/media/Background.png": "/bridgenote/static/media/Background.06e1f44c5f2076dd6469.png",
+    "static/media/Bridgenote Logo.png": "/bridgenote/static/media/Bridgenote Logo.3f18b87e24cf78b33f71.png",
+    "index.html": "/bridgenote/index.html",
+    "main.f964bf95.css.map": "/bridgenote/static/css/main.f964bf95.css.map",
+    "main.ef858273.js.map": "/bridgenote/static/js/main.ef858273.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f964bf95.css",
+    "static/js/main.ef858273.js"
+  ]
+}
