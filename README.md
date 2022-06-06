@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+❤ This repository has been published at https://aldhipradana.github.io/bridgenote/ 
+
+1. Clone this repository using `git clone https://github.com/aldhipradana/bridgenote`
+2. Make sure you already installed Node, 
+3. Then open your terminal and run `npm install` 
+4. After that run `npm start`
+
 
 ## Available Scripts
 
