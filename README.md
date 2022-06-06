@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with React App
 
 ❤ This repository has been published at https://aldhipradana.github.io/bridgenote/ 
 
